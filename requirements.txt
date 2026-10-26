@@ -1,10 +1,15 @@
 langchain-core
-langchain-anthropic
 langchain-chroma
 langchain-huggingface
 sentence-transformers
 langgraph
 chromadb
-pandas
+requests
+numpy
 streamlit
 pydantic
+# LLM provider (default = Groq, free key at console.groq.com). Install only the one you use:
+langchain-groq
+# langchain-google-genai
+# langchain-ollama
+# langchain-anthropic
